@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beingmaroof&label=Profile%20views&color=0e75b6&style=flat" alt="beingmaroof" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beingmaroof" alt="beingmaroof" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/beingmaroof07" target="blank"><img src="https://img.shields.io/twitter/follow/beingmaroof07?logo=twitter&style=for-the-badge" alt="beingmaroof07" /></a> </p>
-
 - 🔭 I’m currently working on [Advancing my Full Stack Development skills through real-world projects and internships.](https://maroofahmedportfolio.vercel.app/)
 
 - 🌱 I’m currently learning **React.js • TypeScript • Next.js • Node.js • Express.js • PostgreSQL • Full Stack Development**
 
 - 👯 I’m looking to collaborate on [Open Source Projects, Frontend Development, React.js, and Full Stack Web Applications](https://github.com/beingmaroof)
 
-- 🤝 I’m looking for help with [Advanced React, Next.js, TypeScript, Backend Development, and Open Source Contributions](Advanced React, Next.js, TypeScript, Backend Development, and Open Source Contributions)
+- 🤝 I’m looking for help with [Advanced React, Next.js, TypeScript, Backend Development, and Open Source Contributions]
 
 - 👨‍💻 All of my projects are available at [https://maroofahmedportfolio.vercel.app/](https://maroofahmedportfolio.vercel.app/)
 
